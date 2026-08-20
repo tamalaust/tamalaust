@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Zahid 👋
 
-<!--
-**tamalaust/tamalaust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer specializing in **Java**, distributed systems, and scalable backend architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About Me
+- 🌱 Deepening expertise in **System Design** and **AI-driven systems**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Data Structures & Algorithms, AI/LLM Systems**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java · [Others: Python / Go / etc.]
+- **Backend:** Spring Boot · Spring Cloud · Hibernate/JPA
+- **Databases:** PostgreSQL · MySQL · Redis · MongoDB
+- **Messaging/Streaming:** Kafka · RabbitMQ
+- **Cloud & DevOps:** AWS/GCP/Azure · Docker · Kubernetes · CI/CD
+- **System Design:** Distributed Systems · Caching · Load Balancing · Sharding
+- **AI/ML Interests:** LLM-based systems · RAG pipelines · Vector databases
+
+## 🌐 Connect
+
+[LinkedIn](https://www.linkedin.com/in/zahidulislam/) 
