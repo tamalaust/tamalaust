@@ -12,7 +12,7 @@ Senior Software Engineer specializing in **Java**, distributed systems, and scal
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java · [Others: Python / Go / etc.]
+- **Languages:** Java · C#
 - **Backend:** Spring Boot · Spring Cloud · Hibernate/JPA
 - **Databases:** PostgreSQL · MySQL · Redis · MongoDB
 - **Messaging/Streaming:** Kafka · RabbitMQ
